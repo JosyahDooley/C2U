@@ -5,7 +5,7 @@
 ## Greyhound
 
 ### Props
--Open any Call of Duty that is supported by Greyhound\n
+-Open any Call of Duty that is supported by Greyhound
 -Load in to any map
 -Open Greyhound as admin
 -Press load game and export all
